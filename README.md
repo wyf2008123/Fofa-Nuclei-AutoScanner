@@ -1,4 +1,12 @@
 # 项目概述 (Project Overview)
+https://fofoapi.com/index
+密钥：
+m1ds3zalkt76y9l7cjv8fpcmfhuem6lm
+
+
+<img width="938" height="941" alt="image" src="https://github.com/user-attachments/assets/df963773-928c-4729-87df-5645c7fa8e53" />
+进去后抓取信息即可使用
+
 
 这个开源项目包含两个 Python 脚本，旨在帮助安全研究人员和渗透测试人员自动化以下任务：
 
