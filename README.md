@@ -21,9 +21,10 @@ These open-source Python scripts are designed to assist security researchers and
 * **Reverse IP/URL to Domain Lookup and Baidu Weight Query**: Reverse-lookup domain names corresponding to IPs or URLs found in scan results and query their Baidu (Chinese search engine) weight.
 
 # 脚本介绍与原理 (Script Introduction & Principles)
-![Uploading image.png…]()
+
 
 ## 脚本一：FOFA 数据提取与 Nuclei 扫描 (Script One: FOFA Data Extraction & Nuclei Scanning)
+<img width="461" height="602" alt="屏幕截图 2025-08-06 122148" src="https://github.com/user-attachments/assets/4c4fe5f3-9ce3-46a0-807f-b9be204a90f9" />
 
 * **文件名 (Filename)**: (请根据您的实际文件名填写，例如 `automation.py`)
 * **功能 (Functionality)**:
